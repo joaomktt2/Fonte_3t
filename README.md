@@ -1,5 +1,16 @@
 # Fonte_3t
 
+|EQUIPE|
+:---:
+
+* João Victor
+
+* Kauã Sousa
+
+* Wesley Lima
+
+
+
 |Esquematico|
 :---:
 |![Esquematico](https://raw.githubusercontent.com/joaomktt2/Fonte_3t/main/esquem%C3%A1tico.png)|
